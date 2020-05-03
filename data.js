@@ -8,9 +8,7 @@ var q = [
   "How much does customer acquisition cost?",
   "How will you make money?",
   "How much money could you make per year?",
-  "How many users do you have?",
   "What is your user growth rate?",
-  "How many users are paying?",
   "How are you meeting customers?",
   "How are you understanding customer needs?",
   "How will you get users?",
@@ -38,7 +36,6 @@ var q = [
   "What have you learned so far from working on your product?",
   "Six months from now, what&#39;s going to be your biggest problem?",
   "Where do new users come from?",
-  "What is your growth like?",
   "What&#39;s the conversion rate?",
   "What makes new users try you?",
   "Why do the reluctant users hold back?",
@@ -58,7 +55,6 @@ var q = [
   "Who in your team does what?",
   "Who is &quot;the boss&quot;?",
   "What will you do if we don&#39;t fund you?",
-  "Would you relocate to Silicon Valley?",
   "How do we know your team will stick together?",
   "What else have you created together?",
   "Are you open to changing your idea? ",
@@ -79,7 +75,25 @@ var q = [
 
   "How do you know people want this?",
   "What do you know about this space/product others don&#39;t know?",
+
+  "Why are you uniquely qualified to work on this?",
+  "Why do you want to dedicate your life to working on this?",
+  "How does this become a billion-dollar company?",
+  "Why do you trust your partner?",
+  "Why do you think he is a good fit to be CEO?",
+  "Why do you think he is aa good fit to be CTO?",
+  "What keeps you up at night?",
+  "Why isn’t someone already doing this?",
+  "How can you compete with PayPal and alike, when you don't have the resources?",
+  "What are the barriers to entry?",
+  "Why doesn't PayPal do it themselves?",
+  "Why doesn't Stripe do it themselves?",
+  "Why Do you think B2B eCom haven't exploded yet?",
+  "How does onboarding during checkout work when onboarding is a required step before even exposing prices or the catalog to the buyer?"ת
+  
+
+
 ];
 
 // Tips
-var tips = ["test"];
+var tips = ["You're great"];
