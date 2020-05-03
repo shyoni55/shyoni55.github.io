@@ -89,10 +89,7 @@ var q = [
   "Why doesn't PayPal do it themselves?",
   "Why doesn't Stripe do it themselves?",
   "Why Do you think B2B eCom haven't exploded yet?",
-  "How does onboarding during checkout work when onboarding is a required step before even exposing prices or the catalog to the buyer?"ת
-  
-
-
+  "How does onboarding during checkout work when onboarding is a required step before even exposing prices or the catalog to the buyer?",
 ];
 
 // Tips
