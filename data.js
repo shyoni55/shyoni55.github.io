@@ -1,5 +1,19 @@
 // Questions
 var q = [
+  "What are you working on",
+  "How are you going to do it",
+  "How are you processing payments?",
+  "How are you eliminating the risk for merchants?",
+  "How do you know people want it?",
+  "Who are your ideal customers?",
+  "How are planning to meet customers?",
+  "Who are your competitors?",
+  "How is it different from your competitors?",
+  "What is the status of the product and where would you be in the beginning/end of YC?",
+  "Why do you think your team has what it takes to win over the market?",
+];
+
+var q_ = [
   "What do you understand that others don&#39;t?",
   "Why will you succeed?",
   "How big an opportunity is there?",
