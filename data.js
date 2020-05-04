@@ -11,6 +11,21 @@ var q = [
   "How is it different from your competitors?",
   "What is the status of the product and where would you be in the beginning/end of YC?",
   "Why do you think your team has what it takes to win over the market?",
+  "What are the top things users want?",
+  "What did you accomplish since your application?",
+  "What have you learned so far from working on your product?",
+  "What do you understand about your users?",
+  "How much time and money do users in your target market waste before switching to your product/service?",
+  "What are some trends in your target market, and related markets?",
+  "What makes new users try you?",
+  "What makes new users reluctant to try you?",
+  "How will you overcome that resistance?",
+  "What's the rocket science here?",
+  "What are the key things about your field that outsiders don’t understand?",
+  "Why isn’t someone already doing this?",
+  "What obstacles will you face and how will you overcome them?",
+  "Six months from now, what’s going to be your biggest problem?",
+  "What your biggest challange today?",
 ];
 
 var q_ = [
