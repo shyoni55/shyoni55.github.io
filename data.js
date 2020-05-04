@@ -1,6 +1,5 @@
 // Questions
 var q = [
-  "What are you working on",
   "How do you know people want it?",
   "How are you going to do it",
   "What are your users doing now?",
