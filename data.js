@@ -26,6 +26,13 @@ var q = [
   "What obstacles will you face and how will you overcome them?",
   "Six months from now, what’s going to be your biggest problem?",
   "What your biggest challange today?",
+  "How many $B is the market?",
+  "How fast is the market growing?",
+  "Who might become competitors?",
+  "How will users find out about you?",
+  "What's the biggest mistake you've made?",
+  "How much money can you make per year?",
+  "Who will be the next hire and why?",
 ];
 
 var q_ = [
