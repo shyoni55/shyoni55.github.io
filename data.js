@@ -108,4 +108,4 @@ var q_ = [
 ];
 
 // Tips
-var tips = ["You're great"];
+var tips = ["You're great!"];
