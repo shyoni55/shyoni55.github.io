@@ -1,10 +1,11 @@
 // Questions
 var q = [
   "What are you working on",
-  "How are you going to do it",
-  "How are you processing payments?",
-  "How are you eliminating the risk for merchants?",
   "How do you know people want it?",
+  "How are you going to do it",
+  "What are your users doing now?",
+  "How are you processing payments?",
+  "How are you managing the risk for merchants?",
   "Who are your ideal customers?",
   "How are planning to meet customers?",
   "Who are your competitors?",
